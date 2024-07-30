@@ -14,6 +14,8 @@ This project is an Excel-based sales dashboard designed to help local vendors tr
 ## Screenshot
 https://github.com/bhnjagtap/local-vendor-sales-excel/blob/main/Screenshot%20(1668).png
 
+Screenshot (1668).png
+
 ## How to Use
 1. Open the Excel file.
 2. Use the filters on the right side to customize the data displayed.
