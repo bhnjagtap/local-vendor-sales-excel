@@ -12,7 +12,7 @@ This project is an Excel-based sales dashboard designed to help local vendors tr
 - **Filters**: Options to filter data by Year, Product Line, State, etc.
 
 ## Screenshot
-
+https://github.com/bhnjagtap/local-vendor-sales-excel/blob/main/Screenshot%20(1668).png
 
 ## How to Use
 1. Open the Excel file.
